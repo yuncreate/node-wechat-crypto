@@ -1,0 +1,32 @@
+{
+  "name": "node-wechat-crypto",
+  "version": "0.1.0",
+  "description": "wechat crypto module for node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuncreate/node-wechat-crypto.git"
+  },
+  "keywords": [
+    "wechat",
+    "weixin",
+    "crypto",
+    "node.js"
+  ],
+  "author": {
+    "name": "mengkeys",
+    "email": "mengkeys@hotmail.com",
+    "homepage": "http://www.mengkeys.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuncreate/node-wechat-crypto/issues"
+  },
+  "homepage": "https://github.com/yuncreate/node-wechat-crypto#readme"
+}
